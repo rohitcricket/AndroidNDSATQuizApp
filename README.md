@@ -5,7 +5,7 @@ This is an app for students to study their SAT material. The app looks like belo
 
 ### SAT Quiz App
 ![Image of App]
-(https://github.com/rohitcricket/AndroidNDQuizApp/blob/master/quizApp.png)
+(https://github.com/rohitcricket/AndroidNDSATQuizApp/blob/master/readmeImg.png)
 
 
 When the app loads, answer the question by tapping on the rectangular button. For more questions, just scroll down. 
