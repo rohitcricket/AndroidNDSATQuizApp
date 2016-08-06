@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SATQuizApp</string>
+    <string name="title">Learn Faster, Test Smarter, Score Higher</string>
+    <string name="math">Math</string>
+    <string name="reading">Reading</string>
+
+    <string name="read_title">Reading Quiz</string>
+
+    <string name="read_ques1">Ember is to ignite as:</string>
+    <string name="read_one">(A) dry is to towel</string>
+    <string name="read_two">(B) bark is to dog</string>
+    <string name="read_three">(C) hammer is to tool</string>
+    <string name="read_four">(D) water is to douse</string>
+
+    <string name="read_ques2">Scissors is to cut as pencil is to:</string>
+    <string name="read_five">(A) snip</string>
+    <string name="read_six">(B) write</string>
+    <string name="read_seven">(C) raze</string>
+    <string name="read_eight">(D) read</string>
+
+    <string name="read_ques3">Bread is to crust as orange is to:</string>
+    <string name="read_nine">(A) butter</string>
+    <string name="read_ten">(B) pudding</string>
+    <string name="read_eleven">(C) rind</string>
+    <string name="read_twelve">(D) tree</string>
+
+    <string name="math_title">Math Quiz</string>
+
+    <string name="math_ques1">A square and a rectangle have the same perimeter.
+        The square has a length and width of 4 and the rectangle has a length of 5.
+        What is the area of the rectangle?</string>
+    <string name="math_one">(A) 3</string>
+    <string name="math_two">(B) 6</string>
+    <string name="math_three">(C) 15</string>
+    <string name="math_four">(D) 30</string>
+
+    <string name="math_ques2">If x is the average, the arithmetic mean, of m and 9, y is the average of 2m and 15,
+        and z is the average of 3m and 18, what is the average of x, y and z in terms of m?</string>
+    <string name="math_five">(A) m + 6</string>
+    <string name="math_six">(B) m + 7</string>
+    <string name="math_seven">(C) 2m + 14</string>
+    <string name="math_eight">(D) 3m + 21</string>
+
+    <string name="math_ques3">(8 - i)/(3 - 2i). If the expression can be rewritten in the form a + bi,
+        where a and b are real numbers, what is the value of a? Remember, i = square root of (-1).</string>
+    <string name="math_nine">(A) 2</string>
+    <string name="math_ten">(B) 8/3</string>
+    <string name="math_eleven">(C) 3</string>
+    <string name="math_twelve">(D) 11/3</string>
+
+    <string name="math_ques4">Which of the following integers are multiples of both 2 and 3? Indicate all integers.</string>
+    <string name="math_a">(A) 8</string>
+    <string name="math_b">(B) 9</string>
+    <string name="math_c">(C) 12</string>
+    <string name="math_d">(D) 18</string>
+    <string name="math_e">(E) 21</string>
+    <string name="math_f">(F) 36</string>
+</resources>
