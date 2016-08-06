@@ -8,6 +8,5 @@ This is an app for students to study their SAT material. The app looks like belo
 (https://github.com/rohitcricket/AndroidNDSATQuizApp/blob/master/readmeImg.png)
 
 
-When the app loads, answer the question by tapping on the rectangular button. For more questions, just scroll down. 
-
+When the app loads, you have a choice to do a Math or a Reading Quiz. Select one view and answer the questions. Good luck!
 Learn Faster, Test Smarter, Score Higher!
